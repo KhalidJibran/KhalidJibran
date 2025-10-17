@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development,Machine Learning,DevOps.
 - 🌱 I’m currently learning Web Development and C Programming.
 - 💞️ I’m looking to collaborate on yet to discover
-- 📫 How to reach me khalidjibran10@gmail.com
+- 📫 How to reach me khalidjibran10@gmail.com sheikhkhalid2129@gmail.com
 - ⚡ Fun fact: 
 
 <!---
